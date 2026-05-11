@@ -1,0 +1,13 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Optional dependencies for document processing
+# python-docx>=0.8.11  # Uncomment if using markdown to docx conversion
+# PyPDF2>=3.0.0       # Uncomment if handling PDF files
+
+# Development dependencies
+# pytest>=7.4.0       # Uncomment for testing
+# black>=23.0.0       # Uncomment for code formatting
+# flake8>=6.0.0       # Uncomment for linting

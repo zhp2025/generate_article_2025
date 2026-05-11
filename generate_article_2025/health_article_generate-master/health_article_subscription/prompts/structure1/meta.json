@@ -1,0 +1,23 @@
+{
+    "extension_prompt": {
+        "base": "article_content_extension/article_content_extension.txt",
+        "requirements_list": [
+            "article_content_extension/requirements/requirements1.txt",
+            "article_content_extension/requirements/requirements2.txt",
+            "article_content_extension/requirements/requirements3.txt",
+            "article_content_extension/requirements/requirements4.txt"
+        ]
+    },
+    "stylize_prompt": {
+        "base": "article_content_stylize/article_content_stylize.txt",
+        "requirements_list": [
+            null,
+            "article_content_stylize/requirements/requirements2.txt",
+            "article_content_stylize/requirements/requirements3.txt",
+            null
+        ]
+    },
+    "outline_generate_prompt": "outline_generate.txt",
+    "topic_generate_prompt": "topic_generate.txt",
+    "title_generate_prompt": "title_generate.txt"
+}

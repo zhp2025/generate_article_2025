@@ -1,0 +1,18 @@
+{
+    "extension_example": {
+        "examples_list": [
+            "person_introduction.json",
+            "problem.json",
+            "questionnaire.json",
+            null
+        ]
+    },
+    "stylize_example": {
+        "examples_list": [
+            null,
+            null,
+            "keep_same",
+            null
+        ]
+    }
+}
